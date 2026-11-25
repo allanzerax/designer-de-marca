@@ -1,0 +1,10 @@
+{
+  "name": "designer-de-marca",
+  "version": "0.1.0",
+  "description": "Cria carrossel, post e story a partir do manual da marca, com imagens do ChatGPT da pessoa e diagramação em HTML.",
+  "author": {
+    "name": "Allan Aguiar"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/allanzerax/designer-de-marca"
+}

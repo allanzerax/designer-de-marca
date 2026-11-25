@@ -1,0 +1,16 @@
+{
+  "nome": "Padaria Aurora",
+  "conceito": "o pão que chega antes do sol",
+  "cores": { "farinha": "#FBF4E6", "forno": "#C4501B", "casca": "#3B2418", "ceu": "#BFD8E0" },
+  "papeis": { "fundo": "farinha", "texto": "casca", "destaque": "forno", "apoio": "ceu" },
+  "fontes": {
+    "titulo": { "familia": "Fraunces", "pesos": [800], "google": true, "reserva": "Georgia, serif" },
+    "texto": { "familia": "Figtree", "pesos": [400, 700], "google": true, "reserva": "Arial, sans-serif" }
+  },
+  "logos": {},
+  "regras": {
+    "texto_minimo": 22,
+    "proibido": ["degradê", "sombra no logo", "texto todo em maiúsculas"]
+  },
+  "estimado": ["cor ceu: medida em imagem do manual"]
+}

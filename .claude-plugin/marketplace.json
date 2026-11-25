@@ -1,0 +1,5 @@
+{
+  "name": "designer-de-marca",
+  "owner": { "name": "Allan Aguiar" },
+  "plugins": [{ "name": "designer-de-marca", "source": "./", "description": "Posts com a cara da marca, a partir do MIV." }]
+}
